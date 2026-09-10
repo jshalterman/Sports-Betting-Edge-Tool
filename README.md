@@ -12,7 +12,7 @@ The manual process starts with comparing lines with OddsShopper’s odds screen 
 
 I began using FanDuel as the primary book to bet on NBA player props. Over 109 bets I obtained an average CLV of +2.6%. As prediction markets became legal in more states, I pivoted to making trades on sites like Kalshi and Novig as they were more likely to have softer lines on MLB payer props based on previous research. This change made the average CLV jump to +3.28% over 204 placed trades. This increase could be accredited to factors such as more disciplined bet sizing, using a different sport with higher sample sizes, as well as participating in more volatile markets.
 
-![Juice Reel CLV](juice-reel-clv.jpeg)
+<img src="juice-reel-clv.jpeg" width="500">
 
 ## Automated System
 
