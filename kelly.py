@@ -26,7 +26,7 @@ def sign_request(private_key, timestamp: str, method: str, path: str) -> str:
     )
     return base64.b64encode(signature).decode("utf-8")
 
-
+# Function exists but is currently in "paper mode"
 def get_kalshi_balance() -> float:
     """Fetches live available balance from Kalshi in dollars."""
     path = "/trade-api/v2/portfolio/balance"
